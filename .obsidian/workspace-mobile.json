@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "0f400a9539a0c013",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae820d6c221ed677",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f13f635ee358cd7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09f36d0dfd887980",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b914294a6d72afa3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "ea5a6c4068ff4f5b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "242336f6bc86e610",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "fb69e54d32f191c4",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6c83235f68a12e78",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e7d55e204462e6da",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Get Started.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "4dc0d2549f8fd399",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Get Started.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "03fe904cfd4808fb",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Get Started.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "396d4384433836af",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8f13f635ee358cd7",
+  "lastOpenFiles": [
+    "Clippings/Attention Is All You Need.md",
+    "2_Literature/Attention Is All You Need.md",
+    "2_Literature",
+    "Clippings/Microsoft Original Source Code.md",
+    "3-Permanent",
+    "5-Structure",
+    "1-Fleeting",
+    "4-Project",
+    "2-Literature/Attention Is All You Need.md",
+    "2-Literature",
+    "Zettelkasten構成ガイド.md",
+    "Starter-Kit/2_Literature/_About - 2_Literature Notes.md",
+    "Get Started.md",
+    "README.md",
+    "Starter-Kit/5_Structure/Canvases/About - 4_Project Notes.canvas",
+    "Starter-Kit/5_Structure/Canvases/About - 1_Fleeting Notes.canvas",
+    "Starter-Kit/5_Structure/Canvases/How to Use Links with Templates.canvas",
+    "Starter-Kit/5_Structure/Canvases/About - 5_Structure Notes.canvas",
+    "Starter-Kit/5_Structure/Canvases/About - 3_Permanent Notes.canvas",
+    "Starter-Kit/5_Structure/Canvases/About - 2_Literature Notes.canvas",
+    "Starter-Kit/4_Project/Posts Zettelkasten/Post - Luhmann vs Digital Zettelkasten.md",
+    "Starter-Kit/4_Project/Obsidian Starter Kit/History - Obsidian Starter Kit.md",
+    "Starter-Kit/4_Project/Obsidian Starter Kit/_MOC - Obsidian Starter Kit.md",
+    "Starter-Kit/4_Project/Obsidian Starter Kit/Project Log - Obsidian Starter Kit.md",
+    "Starter-Kit/5_Structure/ARCO View.md",
+    "Starter-Kit/5_Structure/Index - Zettelkasten.md",
+    "Starter-Kit/5_Structure/Books.md",
+    "Starter-Kit/5_Structure/Quotes.md",
+    "Starter-Kit/5_Structure/Glossary.md",
+    "Starter-Kit/5_Structure/Terms - Zettelkasten.md",
+    "Starter-Kit/5_Structure/Canvases",
+    "Starter-Kit/5_Structure/7 Days Created Chart.md",
+    "Starter-Kit/5_Structure/_About - 5_Structure Notes.md",
+    "Starter-Kit/5_Structure/Inspect View.md",
+    "Starter-Kit/3_Permanent/Apples Vision Statement.md",
+    "Starter-Kit/3_Permanent/_About - 3_Permanent Notes.md",
+    "Starter-Kit/3_Permanent/Basic Zettelkasten vs Extended Digital Zettelkasten.md",
+    "Starter-Kit/Visuals/Zettelkasten_usecase_model_2025-04-24.png",
+    "Starter-Kit/Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png",
+    "Starter-Kit/Visuals/Zettelkasten_Class_Diagram_2025-04-26.png",
+    "Starter-Kit/Visuals/Zettelkasten_LitMap_2024-08-04.png",
+    "Starter-Kit/Visuals/Zettelkasten_history_2025-04-18.png",
+    "Starter-Kit/Visuals/banner_books.jpg",
+    "Starter-Kit/Visuals/IMG_0319.PNG",
+    "Starter-Kit/Visuals/Zettelkasten System Definition Example_01.png",
+    "Starter-Kit/Visuals/zettelkasten_maturity_2024-11-18.png",
+    "Starter-Kit/Visuals/IMG_0843.png",
+    "Starter-Kit/1_Fleeting/About - 1_Fleeting Notes.md",
+    "Starter-Kit/1_Fleeting/My First Fleeting Note.md",
+    "Starter-Kit/4_Project/Posts Zettelkasten",
+    "Starter-Kit/4_Project/Obsidian Starter Kit",
+    "Starter-Kit/Assets/Zettelkasten_System_Definition_D1_2025-04-03.pdf"
+  ]
+}
