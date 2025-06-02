@@ -11,10 +11,24 @@
             "id": "b244bd68345297d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Starter-Kit/Templates/2_Tool Template.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2_Tool Template"
+            }
+          },
+          {
+            "id": "d35906324a2c298c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -74,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 241.5
   },
   "right": {
     "id": "1e8cd1a25d23fe2b",
@@ -174,6 +188,12 @@
   },
   "active": "b244bd68345297d1",
   "lastOpenFiles": [
+    "Starter-Kit/Templates/2_Tool Template.md",
+    "Starter-Kit/Templates/2_Recipe Template.md",
+    "Starter-Kit/Templates/2_Quote Snippet.md",
+    "Starter-Kit/Templates/2_Person Template.md",
+    "Starter-Kit/Templates/2_Book Template.md",
+    "Starter-Kit/Home.md",
     "Starter-Kit/1_Fleeting/My First Fleeting Note.md",
     "Starter-Kit/1_Fleeting/About - 1_Fleeting Notes.md",
     "Starter-Kit/1_Fleeting",
@@ -211,13 +231,7 @@
     "Starter-Kit/Templates/3_Question Template.md",
     "Starter-Kit/Templates/3_Prompt Template.md",
     "Starter-Kit/Templates/3_Note Template.md",
-    "Starter-Kit/Templates/2_Tool Template.md",
     "Starter-Kit/Templates/2_Term Template.md",
-    "Starter-Kit/Templates/2_Recipe Template.md",
-    "Starter-Kit/Templates/2_Quote Template.md",
-    "Starter-Kit/Templates/2_Quote Snippet.md",
-    "Starter-Kit/Templates/2_Person Template.md",
-    "Starter-Kit/Templates/2_Book Template.md",
     "Starter-Kit/Templates",
     "Starter-Kit/4_Project/Posts Zettelkasten",
     "Starter-Kit/5_Structure/Canvases/About - 1_Fleeting Notes.canvas",
