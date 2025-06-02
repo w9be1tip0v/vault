@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "18dd7a47badf7a74",
+        "id": "44204ab0cddc2333",
         "type": "tabs",
         "children": [
           {
-            "id": "b244bd68345297d1",
+            "id": "eb41b30e4899f74b",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Starter-Kit/Visuals/IMG_0843.png"
-              },
-              "icon": "lucide-image",
-              "title": "IMG_0843"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -174,8 +172,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "461bb6081e6462ba",
+  "active": "33a1ed39e3862430",
   "lastOpenFiles": [
+    "Starter-Kit/Visuals/IMG_0843.png",
     "Zettelkasten-Guides/Zettelkasten-Quickstart-ja.md",
     "Zettelkasten-Guides/Zettelkasten-Config-Guide-ja.md",
     "Zettelkasten-Guides/README.md",
@@ -220,7 +219,6 @@
     "Starter-Kit/Templates/5_Structure Template.md",
     "Starter-Kit/Templates/5_OKR Template.md",
     "Starter-Kit/Templates/5_Meeting Notes Template.md",
-    "Starter-Kit/Templates/5_BuJo - Weekly Log.md",
     "Starter-Kit/Templates",
     "Starter-Kit/5_Structure/Canvases/About - 1_Fleeting Notes.canvas",
     "Starter-Kit/5_Structure/Canvases/About - 2_Literature Notes.canvas",
