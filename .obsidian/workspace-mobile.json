@@ -11,10 +11,14 @@
             "id": "8f13f635ee358cd7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten クイックスタート.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zettelkasten クイックスタート"
             }
           }
         ]
@@ -162,6 +166,7 @@
   },
   "active": "8f13f635ee358cd7",
   "lastOpenFiles": [
+    "Zettelkasten構成ガイド.md",
     "Starter-Kit/2_Literature/_About - 2_Literature Notes.md",
     "Get Started.md",
     "README.md",
@@ -206,7 +211,6 @@
     "Starter-Kit/Templates/5_OKR Template.md",
     "Starter-Kit/Templates/2_Person Template.md",
     "Starter-Kit/Templates/4_Post Template.md",
-    "Starter-Kit/Templates/x_Front Matter Snippet.md",
     "Starter-Kit/Assets/Zettelkasten_System_Definition_D1_2025-04-03.pdf",
     "Starter-Kit/Assets/Zettelkasten_Class_Diagram_2025-04-26.pdf",
     "Starter-Kit/Assets/Zettelkasten_LitMap_2024-08-04.pdf",
