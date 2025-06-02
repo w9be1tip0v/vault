@@ -201,4 +201,4 @@ graph LR
 **Next Actions**:
 1. [ ] Create today's fleeting note
 2. [ ] Commit to one week
-3. [ ] Check [[Zettelkasten-Config-Guide-en.md]] for details 
+3. [ ] Check [[Zettelkasten-Config-Guide-en]] for details 
