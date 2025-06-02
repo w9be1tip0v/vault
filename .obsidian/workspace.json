@@ -31,8 +31,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +186,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d35906324a2c298c",
+  "active": "b244bd68345297d1",
   "lastOpenFiles": [
     "Starter-Kit/Templates/2_Tool Template.md",
     "Starter-Kit/Templates/2_Recipe Template.md",
