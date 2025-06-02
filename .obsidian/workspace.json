@@ -11,10 +11,14 @@
             "id": "8bf1968b91b27ca1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Get-Started/ja/Tagging-Rules-Documentation-ja.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tagging-Rules-Documentation-ja"
             }
           }
         ]
@@ -172,10 +176,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33a1ed39e3862430",
+  "active": "8bf1968b91b27ca1",
   "lastOpenFiles": [
-    "Get Started.md",
     "Clippings/Attention Is All You Need.md",
+    "Get-Started/ja",
+    "Get-Started/en",
+    "Get-Started/en/Tagging-Rules-Documentation-en.md",
+    "Tagging-Rules-Documentation-en.md",
+    "Get-Started/ja/Tagging-Rules-Documentation-ja.md",
+    "Get-Started/Tagging-Rules-Documentation.md",
+    "Tagging-Rules-Documentation.md",
+    "Get Started.md",
     "Clippings",
     "5_Structure",
     "4_Project",
@@ -185,11 +196,11 @@
     "Web-Clipped",
     "Starter-Kit/Home.md",
     "Starter-Kit/Visuals/IMG_0843.png",
-    "Get-Started/Zettelkasten-Quickstart-ja.md",
-    "Get-Started/Zettelkasten-Config-Guide-ja.md",
+    "Get-Started/ja/Zettelkasten-Quickstart-ja.md",
+    "Get-Started/ja/Zettelkasten-Config-Guide-ja.md",
     "Get-Started/README.md",
-    "Get-Started/Zettelkasten-Quickstart-en.md",
-    "Get-Started/Zettelkasten-Config-Guide-en.md",
+    "Get-Started/en/Zettelkasten-Quickstart-en.md",
+    "Get-Started/en/Zettelkasten-Config-Guide-en.md",
     "Zettelkasten-Guides/Zettelkasten-Quickstart-jajp.md",
     "Zettelkasten-Guides/Zettelkasten-Config-Guide-jajp.md",
     "Get-Started",
@@ -207,19 +218,11 @@
     "Starter-Kit/Visuals/How to Use Links with Templates.png",
     "Starter-Kit/Visuals/banner_books.jpg",
     "Starter-Kit/1_Fleeting/My First Fleeting Note.md",
-    "Starter-Kit/1_Fleeting/About - 1_Fleeting Notes.md",
-    "Starter-Kit/1_Fleeting",
-    "Starter-Kit/Assets/make_useful_notes_v0-18-0_2023-07-24.pdf",
     "Starter-Kit/Visuals/zettelkasten_maturity_2024-11-18.png",
     "Starter-Kit/Visuals/luhmann_vs_digital_2025-03-06.png",
     "Starter-Kit/Visuals/Zettelkasten_usecase_model_2025-04-24.png",
     "Starter-Kit/Visuals/Zettelkasten_models_2025-04-15.png",
     "Starter-Kit/Visuals/Zettelkasten_history_2025-04-18.png",
-    "Starter-Kit/Templates/x_Front Matter Snippet.md",
-    "Starter-Kit/Templates/x_Dataview Table Snippet.md",
-    "Starter-Kit/Templates/x_Book Front Matter Snippet.md",
-    "Starter-Kit/Templates/x_Back Matter Snippet.md",
-    "Starter-Kit/Templates/5_Structure Template.md",
     "Starter-Kit/5_Structure/Canvases/About - 1_Fleeting Notes.canvas",
     "Starter-Kit/5_Structure/Canvases/About - 2_Literature Notes.canvas",
     "Starter-Kit/5_Structure/Canvases/How to Use Links with Templates.canvas",
