@@ -143,13 +143,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "461bb6081e6462ba",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,11 +168,67 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b244bd68345297d1",
   "lastOpenFiles": [
-    "LICENSE"
+    "Starter-Kit/1_Fleeting/My First Fleeting Note.md",
+    "Starter-Kit/1_Fleeting/About - 1_Fleeting Notes.md",
+    "Starter-Kit/1_Fleeting",
+    "Starter-Kit/Assets/make_useful_notes_v0-18-0_2023-07-24.pdf",
+    "Starter-Kit/Assets/Zettelkasten_System_Definition_D1_2025-04-03.pdf",
+    "Starter-Kit/Assets/Zettelkasten_LitMap_2024-08-04.pdf",
+    "Starter-Kit/Assets/Zettelkasten_Class_Diagram_2025-04-26.pdf",
+    "Starter-Kit/Assets/The_Extended_Mind_2024-08-11.pdf",
+    "Starter-Kit/Assets",
+    "Starter-Kit/Visuals/zettelkasten_maturity_2024-11-18.png",
+    "Starter-Kit/Visuals/luhmann_vs_digital_2025-03-06.png",
+    "Starter-Kit/Visuals/banner_books.jpg",
+    "Starter-Kit/Visuals/Zettelkasten_usecase_model_2025-04-24.png",
+    "Starter-Kit/Visuals/Zettelkasten_models_2025-04-15.png",
+    "Starter-Kit/Visuals/Zettelkasten_history_2025-04-18.png",
+    "Starter-Kit/Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png",
+    "Starter-Kit/Visuals/Zettelkasten_Ontology.png",
+    "Starter-Kit/Visuals/Zettelkasten_LitMap_2024-08-04.png",
+    "Starter-Kit/Visuals/Zettelkasten_Class_Diagram_2025-04-26.png",
+    "Starter-Kit/Visuals",
+    "Starter-Kit/Templates/x_Front Matter Snippet.md",
+    "Starter-Kit/Templates/x_Dataview Table Snippet.md",
+    "Starter-Kit/Templates/x_Book Front Matter Snippet.md",
+    "Starter-Kit/Templates/x_Back Matter Snippet.md",
+    "Starter-Kit/Templates/5_Structure Template.md",
+    "Starter-Kit/Templates/5_OKR Template.md",
+    "Starter-Kit/Templates/5_Meeting Notes Template.md",
+    "Starter-Kit/Templates/5_BuJo - Weekly Log.md",
+    "Starter-Kit/Templates/5_BuJo - Monthly Log.md",
+    "Starter-Kit/Templates/5_BuJo - Future Log.md",
+    "Starter-Kit/Templates/5_BuJo - Daily Log.md",
+    "Starter-Kit/Templates/4_Post Template.md",
+    "Starter-Kit/Templates/4_E-book Template.md",
+    "Starter-Kit/Templates/4_E-book Back Matter Snippet.md",
+    "Starter-Kit/Templates/3_Question Template.md",
+    "Starter-Kit/Templates/3_Prompt Template.md",
+    "Starter-Kit/Templates/3_Note Template.md",
+    "Starter-Kit/Templates/2_Tool Template.md",
+    "Starter-Kit/Templates/2_Term Template.md",
+    "Starter-Kit/Templates/2_Recipe Template.md",
+    "Starter-Kit/Templates/2_Quote Template.md",
+    "Starter-Kit/Templates/2_Quote Snippet.md",
+    "Starter-Kit/Templates/2_Person Template.md",
+    "Starter-Kit/Templates/2_Book Template.md",
+    "Starter-Kit/Templates",
+    "Starter-Kit/4_Project/Posts Zettelkasten",
+    "Starter-Kit/5_Structure/Canvases/About - 1_Fleeting Notes.canvas",
+    "Starter-Kit/5_Structure/Canvases/About - 2_Literature Notes.canvas",
+    "Starter-Kit/5_Structure/Canvases/How to Use Links with Templates.canvas",
+    "Starter-Kit/5_Structure/Canvases/About - 3_Permanent Notes.canvas",
+    "Starter-Kit/5_Structure/Canvases/About - 5_Structure Notes.canvas",
+    "Starter-Kit/5_Structure/Canvases/About - 4_Project Notes.canvas",
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/5_Structure/Canvases/About - 1_Fleeting Notes.canvas",
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/5_Structure/Canvases/How to Use Links with Templates.canvas",
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/5_Structure/Canvases/About - 5_Structure Notes.canvas",
+    "Obsidian-Zettelkasten-Starter-Kit-main/Starter-Kit/5_Structure/Canvases/About - 4_Project Notes.canvas"
   ]
 }
