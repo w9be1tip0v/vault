@@ -174,8 +174,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b244bd68345297d1",
+  "active": "461bb6081e6462ba",
   "lastOpenFiles": [
+    "Zettelkasten クイックスタート.md",
+    "Zettelkasten構成ガイド.md",
     "Starter-Kit/Visuals/IMG_0319.PNG",
     "Starter-Kit/Visuals/IMG_0099.PNG",
     "Starter-Kit/Visuals/How to Use Links with Templates.png",
@@ -195,7 +197,6 @@
     "Starter-Kit/Visuals/Zettelkasten_models_2025-04-15.png",
     "Starter-Kit/Visuals/Zettelkasten_history_2025-04-18.png",
     "Starter-Kit/Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png",
-    "Starter-Kit/Visuals/Zettelkasten_Ontology.png",
     "Starter-Kit/Visuals",
     "Starter-Kit/Templates/x_Front Matter Snippet.md",
     "Starter-Kit/Templates/x_Dataview Table Snippet.md",
@@ -219,7 +220,6 @@
     "Starter-Kit/Templates/2_Recipe Template.md",
     "Starter-Kit/Templates/2_Quote Template.md",
     "Starter-Kit/Templates/2_Quote Snippet.md",
-    "Starter-Kit/Templates/2_Person Template.md",
     "Starter-Kit/Templates",
     "Starter-Kit/4_Project/Posts Zettelkasten",
     "Starter-Kit/5_Structure/Canvases/About - 1_Fleeting Notes.canvas",
