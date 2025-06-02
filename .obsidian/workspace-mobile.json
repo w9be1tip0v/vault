@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7f7486336544555a",
+        "id": "ae820d6c221ed677",
         "type": "tabs",
         "children": [
           {
-            "id": "9b4ed47cecd582c2",
+            "id": "8f13f635ee358cd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Get Started.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Get Started"
+              "title": "New tab"
             }
           }
         ]
@@ -164,9 +160,59 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b4ed47cecd582c2",
+  "active": "8f13f635ee358cd7",
   "lastOpenFiles": [
-    "LICENSE",
-    "Get Started.md"
+    "Starter-Kit/2_Literature/_About - 2_Literature Notes.md",
+    "Get Started.md",
+    "README.md",
+    "Starter-Kit/5_Structure/Canvases/About - 4_Project Notes.canvas",
+    "Starter-Kit/5_Structure/Canvases/About - 1_Fleeting Notes.canvas",
+    "Starter-Kit/5_Structure/Canvases/How to Use Links with Templates.canvas",
+    "Starter-Kit/5_Structure/Canvases/About - 5_Structure Notes.canvas",
+    "Starter-Kit/5_Structure/Canvases/About - 3_Permanent Notes.canvas",
+    "Starter-Kit/5_Structure/Canvases/About - 2_Literature Notes.canvas",
+    "Starter-Kit/4_Project/Posts Zettelkasten/Post - Luhmann vs Digital Zettelkasten.md",
+    "Starter-Kit/4_Project/Obsidian Starter Kit/History - Obsidian Starter Kit.md",
+    "Starter-Kit/4_Project/Obsidian Starter Kit/_MOC - Obsidian Starter Kit.md",
+    "Starter-Kit/4_Project/Obsidian Starter Kit/Project Log - Obsidian Starter Kit.md",
+    "Starter-Kit/5_Structure/ARCO View.md",
+    "Starter-Kit/5_Structure/Index - Zettelkasten.md",
+    "Starter-Kit/5_Structure/Books.md",
+    "Starter-Kit/5_Structure/Quotes.md",
+    "Starter-Kit/5_Structure/Glossary.md",
+    "Starter-Kit/5_Structure/Terms - Zettelkasten.md",
+    "Starter-Kit/5_Structure/Canvases",
+    "Starter-Kit/5_Structure/7 Days Created Chart.md",
+    "Starter-Kit/5_Structure/_About - 5_Structure Notes.md",
+    "Starter-Kit/5_Structure/Inspect View.md",
+    "Starter-Kit/3_Permanent/Apples Vision Statement.md",
+    "Starter-Kit/3_Permanent/_About - 3_Permanent Notes.md",
+    "Starter-Kit/3_Permanent/Basic Zettelkasten vs Extended Digital Zettelkasten.md",
+    "Starter-Kit/Visuals/Zettelkasten_usecase_model_2025-04-24.png",
+    "Starter-Kit/Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png",
+    "Starter-Kit/Visuals/Zettelkasten_Class_Diagram_2025-04-26.png",
+    "Starter-Kit/Visuals/Zettelkasten_LitMap_2024-08-04.png",
+    "Starter-Kit/Visuals/Zettelkasten_history_2025-04-18.png",
+    "Starter-Kit/Visuals/banner_books.jpg",
+    "Starter-Kit/Visuals/IMG_0319.PNG",
+    "Starter-Kit/Visuals/Zettelkasten System Definition Example_01.png",
+    "Starter-Kit/Visuals/zettelkasten_maturity_2024-11-18.png",
+    "Starter-Kit/Visuals/IMG_0843.png",
+    "Starter-Kit/1_Fleeting/About - 1_Fleeting Notes.md",
+    "Starter-Kit/1_Fleeting/My First Fleeting Note.md",
+    "Starter-Kit/4_Project/About - 4_Project Notes.md",
+    "Starter-Kit/4_Project/Posts Zettelkasten",
+    "Starter-Kit/4_Project/Obsidian Starter Kit",
+    "Starter-Kit/Templates/5_OKR Template.md",
+    "Starter-Kit/Templates/2_Person Template.md",
+    "Starter-Kit/Templates/4_Post Template.md",
+    "Starter-Kit/Templates/x_Front Matter Snippet.md",
+    "Starter-Kit/Assets/Zettelkasten_System_Definition_D1_2025-04-03.pdf",
+    "Starter-Kit/Assets/Zettelkasten_Class_Diagram_2025-04-26.pdf",
+    "Starter-Kit/Assets/Zettelkasten_LitMap_2024-08-04.pdf",
+    "Starter-Kit/Assets/make_useful_notes_v0-18-0_2023-07-24.pdf",
+    "Starter-Kit/Assets/The_Extended_Mind_2024-08-11.pdf",
+    "Starter-Kit/5_Structure",
+    "Starter-Kit/3_Permanent"
   ]
 }
