@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "05545ca9f6abf421",
+        "id": "63d58807f4ecd9f7",
         "type": "tabs",
         "children": [
           {
-            "id": "8348a9dfd92163ee",
+            "id": "8bf1968b91b27ca1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -174,6 +174,9 @@
   },
   "active": "33a1ed39e3862430",
   "lastOpenFiles": [
+    "Get Started.md",
+    "Clippings/Attention Is All You Need.md",
+    "Clippings",
     "5_Structure",
     "4_Project",
     "3_Permanent",
@@ -181,7 +184,6 @@
     "1_Fleeting",
     "Web-Clipped",
     "Starter-Kit/Home.md",
-    "Get Started.md",
     "Starter-Kit/Visuals/IMG_0843.png",
     "Get-Started/Zettelkasten-Quickstart-ja.md",
     "Get-Started/Zettelkasten-Config-Guide-ja.md",
@@ -208,8 +210,6 @@
     "Starter-Kit/1_Fleeting/About - 1_Fleeting Notes.md",
     "Starter-Kit/1_Fleeting",
     "Starter-Kit/Assets/make_useful_notes_v0-18-0_2023-07-24.pdf",
-    "Starter-Kit/Assets/Zettelkasten_System_Definition_D1_2025-04-03.pdf",
-    "Starter-Kit/Assets/Zettelkasten_LitMap_2024-08-04.pdf",
     "Starter-Kit/Visuals/zettelkasten_maturity_2024-11-18.png",
     "Starter-Kit/Visuals/luhmann_vs_digital_2025-03-06.png",
     "Starter-Kit/Visuals/Zettelkasten_usecase_model_2025-04-24.png",
