@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "44204ab0cddc2333",
+        "id": "f8bee6fab0b7fcc5",
         "type": "tabs",
         "children": [
           {
-            "id": "eb41b30e4899f74b",
+            "id": "8400c84e1b796612",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1e8cd1a25d23fe2b",
@@ -172,9 +172,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb41b30e4899f74b",
+  "active": "8400c84e1b796612",
   "lastOpenFiles": [
-    "Clippings/The FACTS Grounding Leaderboard Benchmarking LLMs’ Ability to Ground Responses to Long-Form Input.md",
+    "2-Literature/The FACTS Grounding Leaderboard Benchmarking LLMs’ Ability to Ground Responses to Long-Form Input.md",
+    "Clippings/The FACTS Grounding Leaderboard Benchmarking LLMs' Ability to Ground Responses to Long-Form Input.md",
+    "2-Literature/Attention Is All You Need.md",
+    "Starter-Kit/1_Fleeting/My First Fleeting Note.md",
     "Starter-Kit/Visuals/IMG_0843.png",
     "Zettelkasten-Guides/Zettelkasten-Quickstart-ja.md",
     "Zettelkasten-Guides/Zettelkasten-Config-Guide-ja.md",
@@ -197,7 +200,6 @@
     "Starter-Kit/Visuals/IMG_0099.PNG",
     "Starter-Kit/Visuals/How to Use Links with Templates.png",
     "Starter-Kit/Visuals/banner_books.jpg",
-    "Starter-Kit/1_Fleeting/My First Fleeting Note.md",
     "Starter-Kit/1_Fleeting/About - 1_Fleeting Notes.md",
     "Starter-Kit/1_Fleeting",
     "Starter-Kit/Assets/make_useful_notes_v0-18-0_2023-07-24.pdf",
@@ -216,9 +218,6 @@
     "Starter-Kit/Templates/x_Dataview Table Snippet.md",
     "Starter-Kit/Templates/x_Book Front Matter Snippet.md",
     "Starter-Kit/Templates/x_Back Matter Snippet.md",
-    "Starter-Kit/Templates/5_Structure Template.md",
-    "Starter-Kit/Templates/5_OKR Template.md",
-    "Starter-Kit/Templates/5_Meeting Notes Template.md",
     "Starter-Kit/Templates",
     "Starter-Kit/5_Structure/Canvases/About - 1_Fleeting Notes.canvas",
     "Starter-Kit/5_Structure/Canvases/About - 2_Literature Notes.canvas",

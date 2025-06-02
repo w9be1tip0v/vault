@@ -1,10 +1,10 @@
 ---
-title: "The FACTS Grounding Leaderboard: Benchmarking LLMs' Ability to Ground Responses to Long-Form Input"
+title: "The FACTS Grounding Leaderboard: Benchmarking LLMs’ Ability to Ground Responses to Long-Form Input"
 source: "https://arxiv.org/html/2501.03200v1"
-author: "Alon Jacovi, Andrew Wang, Chris Alberti, et al."
+author: "Alon Jacovi, Andrew Wang, Chris Alberti, Connie Tao, Jon Lipovetz, Kate Olszewska, Lukas Haas, Michelle Liu, Nate Keating, et al."
 published: "2025-01-06"
 created: 2025-06-03
-description: "Research paper introducing FACTS Grounding leaderboard for benchmarking LLMs' factual accuracy in long-form responses based on context documents up to 32k tokens."
+description: "Research paper introducing FACTS Grounding leaderboard for evaluating LLMs' ability to generate factually accurate long-form responses grounded in provided context documents."
 tags:
   - type/literature
   - theme/research
@@ -12,7 +12,7 @@ tags:
   - source/arxiv
   - role/author
   - target/starterkit
---- 
+---
 arXiv:2501.03200v1 \[cs.CL\] 06 Jan 2025
 
 facts-leaderboard@google.com
