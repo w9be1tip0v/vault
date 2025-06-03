@@ -12,6 +12,16 @@ tags:
   - source/arxiv
   - role/author
   - target/starterkit
+  - keyword/transformer
+  - keyword/attention
+  - keyword/self-attention
+  - keyword/neural-machine-translation
+  - keyword/encoder-decoder
+  - keyword/multi-head-attention
+  - keyword/positional-encoding
+  - keyword/parallelization
+  - keyword/sequence-modeling
+  - keyword/nlp
 ---
 arXiv:1706.03762v7 \[cs.CL\] 02 Aug 2023
 

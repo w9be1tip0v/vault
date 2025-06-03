@@ -6,18 +6,18 @@ published: "2024-12-13"
 created: 2025-06-03
 description: "Byte Latent Transformer (BLT) is a new byte-level LLM architecture that, for the first time, matches tokenization-based LLM performance at scale with significant improvements in inference efficiency and robustness. BLT encodes bytes into dynamically sized patches, which serve as the primary units of computation. Patches are segmented based on the entropy of the next byte, allocating more compute and model capacity where increased data complexity demands it."
 tags:
-  - "#type/literature"
-  - "#theme/research"
-  - "#theme/learning"
-  - "machine-learning"
-  - "transformer"
-  - "language-model" 
-  - "tokenization"
-  - "byte-processing"
-  - "scaling"
-  - "AI"
-  - "NLP"
-  - "research-paper"
+  - type/literature
+  - theme/research
+  - theme/learning
+  - keyword/machine-learning
+  - keyword/transformer
+  - keyword/language-model 
+  - keyword/tokenization
+  - keyword/byte-processing
+  - keyword/scaling
+  - keyword/ai
+  - keyword/nlp
+  - keyword/research-paper
 ---
 arXiv:2412.09871v1 \[cs.CL\] 13 Dec 2024
 

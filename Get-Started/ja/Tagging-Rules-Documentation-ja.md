@@ -6,7 +6,7 @@
 
 ## タグ体系の基本構造
 
-タグは **カテゴリ/詳細** の形式で記述し、以下の4つの主要カテゴリに分類されます：
+タグは **カテゴリ/詳細** の形式で記述し、以下の9つの主要カテゴリに分類されます：
 
 ### 1. 📝 Type分類（ノートタイプ）
 ```
@@ -95,6 +95,18 @@
 #diagram/doublebubble-map  - ダブルバブルマップ
 ```
 
+### 9. 🔑 Keyword分類（キーワード・概念）
+```
+#keyword/transformer       - Transformerアーキテクチャ
+#keyword/attention         - 注意機構
+#keyword/machine-learning  - 機械学習
+#keyword/nlp              - 自然言語処理
+#keyword/factuality       - 事実性評価
+#keyword/grounding        - テキストグラウンディング
+#keyword/evaluation       - モデル評価
+#keyword/benchmark        - ベンチマーク
+```
+
 ## 使用ルール
 
 ### ✅ 必須タグ
@@ -105,6 +117,7 @@
 ### 📋 推奨タグ
 - **`#target/`タグ** - 特定の用途がある場合
 - **`#structure/`タグ** - 構造ノートの場合
+- **`#keyword/`タグ** - 技術用語や概念の場合
 
 ### 🔄 DataViewクエリでの活用
 ```dataview
@@ -112,6 +125,7 @@ FROM #type/book
 FROM #theme/zettelkasten
 FROM #status/open OR #status/wip
 FROM #target/forumzettelkasten
+FROM #keyword/machine-learning
 ```
 
 ### 🏷️ ソーシャルメディア用タグ

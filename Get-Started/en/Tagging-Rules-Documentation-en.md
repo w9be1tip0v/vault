@@ -6,7 +6,7 @@ This project adopts a hierarchical tagging system based on Austin Govella's prin
 
 ## Basic Tag System Structure
 
-Tags are written in **Category/Detail** format and classified into the following 8 major categories:
+Tags are written in **Category/Detail** format and classified into the following 9 major categories:
 
 ### 1. 📝 Type Classification (Note Types)
 ```
@@ -95,6 +95,18 @@ Tags are written in **Category/Detail** format and classified into the following
 #diagram/doublebubble-map  - Double bubble map
 ```
 
+### 9. 🔑 Keyword Classification (Keywords & Concepts)
+```
+#keyword/transformer       - Transformer architecture
+#keyword/attention         - Attention mechanism
+#keyword/machine-learning  - Machine learning
+#keyword/nlp              - Natural Language Processing
+#keyword/factuality       - Factuality evaluation
+#keyword/grounding        - Text grounding
+#keyword/evaluation       - Model evaluation
+#keyword/benchmark        - Benchmarking
+```
+
 ## Usage Rules
 
 ### ✅ Required Tags
@@ -105,6 +117,7 @@ All notes must include at minimum:
 ### 📋 Recommended Tags
 - **`#target/` tag** - When there's a specific purpose
 - **`#structure/` tag** - For structure notes
+- **`#keyword/` tags** - For technical terms and concepts
 
 ### 🔄 DataView Query Integration
 ```dataview
@@ -112,6 +125,7 @@ FROM #type/book
 FROM #theme/zettelkasten
 FROM #status/open OR #status/wip
 FROM #target/forumzettelkasten
+FROM #keyword/machine-learning
 ```
 
 ### 🏷️ Social Media Tags

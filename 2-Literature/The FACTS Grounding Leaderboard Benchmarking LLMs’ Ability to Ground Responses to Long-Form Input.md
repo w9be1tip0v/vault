@@ -12,6 +12,20 @@ tags:
   - source/arxiv
   - role/author
   - target/starterkit
+  - keyword/factuality
+  - keyword/grounding
+  - keyword/evaluation
+  - keyword/benchmark
+  - keyword/leaderboard
+  - keyword/long-form-generation
+  - keyword/automated-evaluation
+  - keyword/judge-models
+  - keyword/llm-evaluation
+  - keyword/document-grounding
+  - keyword/fact-checking
+  - keyword/response-generation
+  - keyword/context-awareness
+  - keyword/text-generation
 ---
 arXiv:2501.03200v1 \[cs.CL\] 06 Jan 2025
 
