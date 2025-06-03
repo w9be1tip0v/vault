@@ -1,10 +1,10 @@
 ---
 title: "Byte Latent Transformer: Patches Scale Better Than Tokens"
 source: "https://arxiv.org/html/2412.09871v1"
-author:
-published:
+author: "Artidoro Pagnoni, Ram Pasunuru, Pedro Rodriguez, John Nguyen, Benjamin Muller, Margaret Li, Chunting Zhou, Lili Yu, Jason Weston, Luke Zettlemoyer, Gargi Ghosh, Mike Lewis, Ari Holtzman, Srinivasan Iyer"
+published: "2024-12-13"
 created: 2025-06-03
-description:
+description: "Byte Latent Transformer (BLT) is a new byte-level LLM architecture that, for the first time, matches tokenization-based LLM performance at scale with significant improvements in inference efficiency and robustness. BLT encodes bytes into dynamically sized patches, which serve as the primary units of computation. Patches are segmented based on the entropy of the next byte, allocating more compute and model capacity where increased data complexity demands it."
 tags:
   - "#type/literature"
   - "#theme/research"
