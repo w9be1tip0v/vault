@@ -1,0 +1,55 @@
+---
+description: "Folder structure, naming, templates, linking and Dataview practices for this Zettelkasten vault."
+globs: ["**/*.md"]
+alwaysApply: true
+---
+
+# Configuration & Structure Rules (Cursor-Assistant)
+
+Guide the assistant to keep the vault consistent with the defined structure.
+
+## Folder Structure (must exist)
+- `1_Fleeting/` – quick capture; review weekly
+- `2_Literature/` – per-source notes (books, people, terms)
+- `3_Permanent/` – independent ideas (one idea per note)
+- `4_Project/` – per-project folders with `_MOC`, `Project Log`, `History`
+- `5_Structure/` – indexes, glossary, MOCs, canvases
+
+If missing, propose creating the folder and its `_About` or `_MOC` seed note.
+
+## Naming & Templates
+- Clear, concise filenames; one idea per note in `3_Permanent/`.
+- Use templates:
+  - Literature: `2_Book / 2_Person / 2_Term / 2_Tool / 2_Quote`
+  - Permanent: `3_Note`, `3_Question`, `3_Prompt`
+  - Structure/Project: `5_Structure`, `4_Post`, `5_Meeting`, `5_OKR`
+
+## Tagging (see Tagging Rules)
+- Enforce: at least one `#type/*` and one `#theme/*`.
+- Place tags at the bottom, in a `Tags:` block when appropriate.
+
+## Linking Strategy
+- Create meaningful links; prefer 2+ links per note.
+- Use section links `[[Note#Heading]]` and embeds `![[Note]]` when helpful.
+- Maintain project MOCs in `4_Project/[Project]/_MOC - [Project].md`.
+
+## Dataview Practices
+- Prefer simple tables/lists; keep queries readable.
+- Example (recent permanents):
+```dataview
+TABLE WITHOUT ID file.link as "Recent Notes", (date(today) - file.cday).day as "Days Old"
+FROM "3_Permanent"
+SORT file.cday desc
+LIMIT 10
+```
+
+## Homepage/Overview Ideas
+- Random quote, recent activity, simple stats.
+
+## Assistant Validation Checklist
+Before finalizing an edit or a new note, verify:
+- Folder matches note type
+- Template applied (if relevant)
+- Tags include `#type/*` and `#theme/*`, placed at bottom
+- At least two internal links added
+- If project-related, ensure or suggest MOC/log/history presence

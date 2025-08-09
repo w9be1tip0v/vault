@@ -1,0 +1,51 @@
+---
+description: "Zettelkasten tagging rules for this vault. Enforce Category/Detail tags and required #type and #theme."
+globs: ["**/*.md"]
+alwaysApply: true
+---
+
+# Tagging Rules (This Vault)
+
+Use tags to provide architecture, not content. Follow Category/Detail format, all lowercase.
+
+## Required
+- Add at least one `#type/*` tag
+- Add one or more `#theme/*` tags
+
+## Recommended
+- Add `#target/*` when a specific purpose exists
+- Add `#structure/*` for structure notes (MOC, index, etc.)
+- Add focused `#keyword/*` tags (technical concepts)
+- Keep total tags around 5–7; avoid over-tagging
+
+## Format
+- Lowercase; use `category/detail`
+- Place tags at the bottom of the note body (not YAML) unless the user asks otherwise
+- Do not invent new top-level categories without user approval
+
+## Allowed Categories (with examples)
+- Type: `#type/fleeting`, `#type/literature`, `#type/permanent`, `#type/project`, `#type/structure`, `#type/note`, `#type/sketchnote`, `#type/book`, `#type/quote`, `#type/term`, `#type/person`, `#type/tool`, `#type/meeting`, `#type/post`, `#type/question`, `#type/prompt`, `#type/recipe`, `#type/okr`, `#type/rule`, `#type/example`, `#type/dataview`
+- Structure: `#structure/moc`, `#structure/index`, `#structure/about`, `#structure/canvas`, `#structure/list`
+- Theme: `#theme/zettelkasten`, `#theme/productivity`, `#theme/learning`, `#theme/research`, `#theme/pkm`, `#theme/sketchnotes`, `#theme/writing`, `#theme/thinking`, `#theme/datastory`, `#theme/cooking`, `#theme/finance`, `#theme/objectives`
+- Target: `#target/starterkit`, `#target/project`, `#target/github`, `#target/linkedin`, `#target/forumzettelkasten`, `#target/forumobsidian`, `#target/reddit`
+- Role: `#role/author`, `#role/expert`, `#role/visualthinker`, `#role/networkedthinker`
+- Status: `#status/open`, `#status/wip`, `#status/backlog`, `#status/active`
+- Source: `#source/chatgpt`
+- Diagram: `#diagram/doublebubble-map`
+- Keyword: `#keyword/transformer`, `#keyword/attention`, `#keyword/machine-learning`, `#keyword/nlp`, `#keyword/factuality`, `#keyword/grounding`, `#keyword/evaluation`, `#keyword/benchmark`
+
+## Social Media Hashtags
+- Keep public hashtags separate from system tags (e.g., `#obsidian #zettelkasten`), and include only when requested by the user
+
+## Assistant Rules
+- When generating new notes, always include `#type/*` and at least one `#theme/*`
+- Respect existing tag vocabulary; if a needed tag is missing, propose it explicitly before using
+- Prefer adding tags as plain hashtags under a `Tags` section at the end
+
+```markdown
+---
+# … note content …
+
+---
+Tags: #type/literature #theme/research #target/starterkit #keyword/machine-learning
+```

@@ -1,0 +1,81 @@
+---
+description: "Quickstart operational workflows for this vault: plugins, templates, daily routines, linking patterns, and assistant behavior."
+globs: ["**/*.md"]
+alwaysApply: true
+---
+
+# Quickstart Workflows (Cursor-Assistant Rules)
+
+These rules help the assistant scaffold notes and workflows consistently, based on the Quick Start Guide.
+
+## Required Plugins and Setup
+- Enable `Dataview` and `Templates`. `Obsidian Git` is optional.
+- Templates folder location: `Starter-Kit/Templates`.
+
+## When Creating Notes
+- Use the appropriate template:
+  - Literature: `2_Book Template`, `2_Person Template`, `2_Term Template`, etc.
+  - Permanent: `3_Note Template` for independent ideas.
+- Add tags at the bottom (not YAML): ensure at least `#type/*` and one `#theme/*`.
+- Create 2+ links per new note using `[[Note Name]]`.
+- Prefer short, skimmable sections and checklists.
+
+## Starter Scaffolds
+
+### Fleeting Note (seed)
+```markdown
+# Today's Ideas - {{date}}
+
+## Things I thought of
+-
+
+## Things to research
+-
+
+## Questions
+-
+
+---
+Tags: #type/fleeting #theme/learning
+```
+
+### Daily Routine Block
+```markdown
+## Daily Zettelkasten Time (15 minutes)
+
+### Morning (5 minutes)
+- [ ] Review yesterday's fleeting notes
+- [ ] Note materials to read today
+
+### Evening (10 minutes)
+- [ ] Record today's ideas in 1_Fleeting
+- [ ] Promote valuable ideas to 3_Permanent
+- [ ] Note tomorrow's learning plan
+```
+
+## Linking Patterns
+- Concept development: `[[Basic Concept]] → [[Applied Idea]] → [[Practice Method]]`
+- Contrast: `[[Traditional Method]] ⚡ [[New Approach]]`
+- Causal: `[[Cause]] → [[Effect]] → [[Solution]]`
+
+## First Week Checklist
+- Day 1–2: 3 fleeting, 1 literature, 5 links
+- Day 3–4: 2 permanent, interlink notes, set tags appropriately
+- Day 5–7: Weekly review, try Dataview, start customization
+
+## Common Pitfalls (and fixes)
+- Perfectionism → Aim for 80% and iterate
+- No links → Always add at least two links per note
+- Neglecting fleeting → Schedule 2 weekly reviews
+
+## Growth Milestones
+- 1 month: 50 notes / 100 links
+- 3 months: 200 notes / 3–5 clusters
+- 6 months: 500 notes / dense graph
+
+## Assistant Behavior in Cursor
+- Offer the appropriate template snippet for the current folder (e.g., `2_Literature`, `3_Permanent`).
+- Validate tags: enforce `#type/*` and at least one `#theme/*`; keep tags at bottom.
+- Suggest 2–3 internal links based on existing note titles.
+- Offer a small end-of-note "Next Actions" checklist.
+- When adding Dataview, prefer minimal, readable tables.
