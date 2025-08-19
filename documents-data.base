@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - '!file.path.startsWith("Starter-Kit")'
+    order:
+      - file.name
+      - file.tags
+      - file.path
+      - file.ctime
+      - file.mtime
+    sort:
+      - property: file.path
+        direction: ASC
+    columnSize:
+      file.tags: 321
+      file.path: 363
+      file.ctime: 173
